@@ -1,6 +1,6 @@
 def earth():
-    x = "Bangladesh"
-    y = "Barbados"
+	x = "Bangladesh"
+ 	y = "Barbados"
 	verdad = x < y
 	falso = y < x
 	print(f'The result of {x} comes first in the dictionary than {y} is {verdad}')
